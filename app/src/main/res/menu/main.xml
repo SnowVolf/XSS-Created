@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+		android:id="@+id/editor_group">
+		<item
+			android:id="@+id/delete"
+			android:showAsAction="always"
+			android:icon="@android:drawable/ic_menu_delete"
+			android:title="Удалить стиль" />
+		<item
+			android:id="@+id/save"
+			android:showAsAction="always"
+			android:icon="@android:drawable/ic_menu_save"
+			android:title="Сохранить стиль" />
+
+		<item
+			android:id="@+id/item"
+			android:showAsAction="always"
+			android:icon="@android:drawable/ic_menu_add"
+			android:title="Новый Стиль" />
+        <item
+			android:id="@+id/default_style"
+			android:showAsAction="never"
+			android:title="Восстановить стандартнные стили" />
+		<item
+			android:id="@+id/rename"
+			android:showAsAction="never"
+			android:title="Переименовать" />
+
+	</group>
+	<item
+        android:id="@+id/theme"
+		android:showAsAction="never"
+        android:title="Сменить тему" />
+	<group
+		android:id="@+id/webview_group">
+		<item
+			android:id="@+id/refresh"
+			android:icon="@drawable/ic_action_refresh"
+			android:showAsAction="always"
+			android:title="Обновить" />
+	</group>
+
+</menu>

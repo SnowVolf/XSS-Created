@@ -1,0 +1,323 @@
+[
+    {
+        "outputFile": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 81,
+                        "endColumn": 57,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 58,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 19,
+                        "endColumn": 56,
+                        "endOffset": 74
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 57,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 53,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 52,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 241,
+                        "endColumn": 49,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 50,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 291,
+                        "endColumn": 47,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 44,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 43,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 200,
+                        "endColumn": 40,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 47,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 47,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 38,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 38,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1148,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endLine": 30,
+                    "endColumn": 20,
+                    "endOffset": 1812
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 465,
+                        "endLine": 17,
+                        "endColumn": 20,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1817,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2050
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2055,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 252,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 356,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 460
+                    }
+                }
+            }
+        ]
+    }
+]

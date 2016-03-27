@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\layout\\save_dialog.xml",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\layout\\save_dialog.xml"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rename.xml",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview_layout.xml",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\layout\\webview_layout.xml"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editor_layout.xml",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\layout\\editor_layout.xml"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_frame_drawer.xml",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\layout\\content_frame_drawer.xml"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_list_pager.xml",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\layout\\news_list_pager.xml"
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.trablone.csscreated"
+    android:versionCode="1"
+    android:versionName="1.1 Шустрый заяц" >
+
+	<uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    
+    <uses-sdk 
+        android:minSdkVersion="14" 
+        android:targetSdkVersion="19" />
+
+    <application
+		android:theme="@style/Theme.White"
+        android:icon="@drawable/icone"
+        android:label="@string/app_name" >
+        <activity
+			android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:name=".MainActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:scheme="file" />
+				<data android:scheme="content" />
+				<data android:mimeType="text/*" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.EDIT" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:mimeType="text/*" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.SEND" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:mimeType="text/*" />
+			</intent-filter>
+        </activity>
+		<provider
+            android:name=".database.Provider"
+            android:authorities="com.trablone.csscreated.database"
+            android:exported="false" >
+		</provider>
+    </application>
+
+</manifest>

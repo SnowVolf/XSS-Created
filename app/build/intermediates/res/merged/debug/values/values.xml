@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="defaultBackground"/>
+    <attr format="reference" name="drawerItemBackground"/>
+    <color name="action_bar_background">#88111111</color>
+    <color name="editor_background">#88000000</color>
+    <color name="error_background">#aa880000</color>
+    <color name="error_foreground">#ffffff</color>
+    <color name="foreground">#ffffff</color>
+    <color name="pressed">#44222222</color>
+    <string name="app_name">XssCreated</string>
+    <string name="menu">Стили</string>
+    <style name="ActionBar.Example" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/abc_ab_solid_dark_holo</item>
+		<!--item name="android:homeAsUpIndicator">@drawable/new_indicator</item>
+		<item name="homeAsUpIndicator">@drawable/new_indicator</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_example</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_example</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Example</item-->
+    </style>
+    <style name="ActionBar.White.Example" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/abc_ab_solid_dark_holo</item>
+
+        <!--item name="android:backgroundStacked">@drawable/ab_stacked_solid_example</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_example</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Example</item-->
+    </style>
+    <style name="Theme.Black" parent="@android:Theme.Holo">
+		<item name="android:actionBarStyle">@style/ActionBar.Example</item>
+		<item name="defaultBackground">@style/default_background_bl</item>
+            </style>
+    <style name="Theme.White" parent="@android:Theme.Holo.Light.DarkActionBar">
+		<item name="android:actionBarStyle">@style/ActionBar.White.Example</item>
+		<item name="defaultBackground">@style/default_background</item>
+		
+    </style>
+    <style name="default_background">
+        <item name="android:background">#ffffff</item>
+    </style>
+    <style name="default_background_bl">
+        <item name="android:background">#000000</item>
+    </style>
+</resources>

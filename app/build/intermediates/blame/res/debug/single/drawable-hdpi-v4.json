@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_refresh.png",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icone.png",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\drawable-hdpi\\icone.png"
+    },
+    {
+        "merged": "X:\\AndroidSDK\\workspace\\csscreated\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "X:\\AndroidSDK\\workspace\\csscreated\\app\\src\\main\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    }
+]
